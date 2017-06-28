@@ -1,0 +1,32 @@
+"*":
+  "atom-beautify":
+    executables:
+      php:
+        path: "E:\\xampp\\php\\php.exe"
+      "php-cs-fixer":
+        path: "E:\\xampp\\php\\php-cs-fixer.phar"
+      phpcbf: {}
+    php:
+      beautify_on_save: true
+  core:
+    packagesWithKeymapsDisabled: [
+      "goto-definition"
+    ]
+  docblockr:
+    extra_tags: [
+      "@author : xang vo"
+    ]
+    extra_tags_go_after: true
+  "exception-reporting":
+    userId: "0aad54fa-d65b-4381-9cbe-413b5403e2f8"
+  "file-header":
+    autoAddingHeaderOnNewFile: false
+    autoAddingHeaderOnSaving: false
+    email: "xangvx@tctav.com"
+    numOfEmptyLinesAfterNewHeader: 0
+    username: "xangvo"
+  "linter-ui-default":
+    panelHeight: 69
+  "platformio-ide-terminal":
+    core: {}
+  "sync-settings": {}
