@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\d-117527-12452-cmqc2b.85pix80k9\\package.tgz",
+        "raw": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\d-117529-7720-1gikjfo.k3yy8yf1or\\package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\d-117527-12452-cmqc2b.85pix80k9\\package.tgz",
-        "spec": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\d-117527-12452-cmqc2b.85pix80k9\\package.tgz",
+        "rawSpec": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\d-117529-7720-1gikjfo.k3yy8yf1or\\package.tgz",
+        "spec": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\d-117529-7720-1gikjfo.k3yy8yf1or\\package.tgz",
         "type": "local"
       },
-      "C:\\Users\\xangvx\\AppData\\Local\\Temp\\apm-install-dir-117527-12452-1yiyegh.tvb67mbo6r"
+      "C:\\Users\\xangvx\\AppData\\Local\\Temp\\apm-install-dir-117529-7720-q5dup6.a7j8fo5hfr"
     ]
   ],
-  "_from": "..\\d-117527-12452-cmqc2b.85pix80k9\\package.tgz",
+  "_from": "..\\d-117529-7720-1gikjfo.k3yy8yf1or\\package.tgz",
   "_id": "javascript-snippets@1.2.1",
   "_inCache": true,
   "_location": "/javascript-snippets",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\d-117527-12452-cmqc2b.85pix80k9\\package.tgz",
+    "raw": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\d-117529-7720-1gikjfo.k3yy8yf1or\\package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\d-117527-12452-cmqc2b.85pix80k9\\package.tgz",
-    "spec": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\d-117527-12452-cmqc2b.85pix80k9\\package.tgz",
+    "rawSpec": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\d-117529-7720-1gikjfo.k3yy8yf1or\\package.tgz",
+    "spec": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\d-117529-7720-1gikjfo.k3yy8yf1or\\package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-117527-12452-cmqc2b.85pix80k9\\package.tgz",
+  "_resolved": "file:..\\d-117529-7720-1gikjfo.k3yy8yf1or\\package.tgz",
   "_shasum": "a30a0bcbbfe78657dcc812058fb629d5bbef66e6",
   "_shrinkwrap": null,
-  "_spec": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\d-117527-12452-cmqc2b.85pix80k9\\package.tgz",
-  "_where": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\apm-install-dir-117527-12452-1yiyegh.tvb67mbo6r",
+  "_spec": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\d-117529-7720-1gikjfo.k3yy8yf1or\\package.tgz",
+  "_where": "C:\\Users\\xangvx\\AppData\\Local\\Temp\\apm-install-dir-117529-7720-q5dup6.a7j8fo5hfr",
   "bugs": {
     "url": "https://github.com/zenorocha/atom-javascript-snippets/issues"
   },

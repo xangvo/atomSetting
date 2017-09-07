@@ -38,5 +38,6 @@
 
 '.platform-win32 atom-text-editor':
   'F12': 'goto-definition:go'
+  'ctrl-alt-m': 'bracket-matcher:select-inside-brackets'
 'atom-text-editor:not(.mini)':
   'shift-alt-H': 'file-header:add'

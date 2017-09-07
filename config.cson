@@ -1,32 +1,24 @@
 "*":
-  "atom-beautify":
-    executables:
-      php:
-        path: "E:\\xampp\\php\\php.exe"
-      "php-cs-fixer":
-        path: "E:\\xampp\\php\\php-cs-fixer.phar"
-      phpcbf: {}
-    php:
-      beautify_on_save: true
   core:
-    packagesWithKeymapsDisabled: [
-      "goto-definition"
-    ]
-  docblockr:
-    extra_tags: [
-      "@author : xang vo"
-    ]
-    extra_tags_go_after: true
+    automaticallyUpdate: false
+    closeDeletedFileTabs: true
+    telemetryConsent: "no"
+  editor:
+    fontSize: 12
   "exception-reporting":
-    userId: "0aad54fa-d65b-4381-9cbe-413b5403e2f8"
+    userId: "c94f02ec-c7ae-4670-9c83-3938f537e7fe"
   "file-header":
-    autoAddingHeaderOnNewFile: false
     autoAddingHeaderOnSaving: false
-    email: "xangvx@tctav.com"
-    numOfEmptyLinesAfterNewHeader: 0
-    username: "xangvo"
+    autoUpdateEnabled: false
+  "git-blame":
+    columnWidth: 433
   "linter-ui-default":
     panelHeight: 69
-  "platformio-ide-terminal":
-    core: {}
-  "sync-settings": {}
+  "symbols-tree-view":
+    zAutoHideTypes: "variable class"
+  welcome:
+    showOnStartup: false
+".blade.html.php.text":
+  editor:
+    commentEnd: " --}}"
+    commentStart: "{{-- "
